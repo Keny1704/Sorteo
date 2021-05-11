@@ -2,7 +2,7 @@ import telebot
 #from telebot import types
 import numpy as np
 import random
-bot = telebot.TeleBot("802968926:AAGi74WQM149SOQwQPcZ3YNnEIJCS_OhufI")
+bot = telebot.TeleBot("1821210569:AAHkE7MLUSqu4oUCQQhoG9PgXAiyKIflgNA")
 
 participantes = []
 tp = [0]
